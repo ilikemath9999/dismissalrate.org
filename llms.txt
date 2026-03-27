@@ -1,0 +1,15 @@
+# dismissalrate.org
+
+> National Chapter 13 dismissal rate statistics by federal judicial district.
+
+dismissalrate.org is a free, open-source educational resource. Part of the Bankruptcy Transparency Network.
+
+## Pages
+
+- https://dismissalrate.org/ -- National Chapter 13 dismissal rate statistics
+- https://dismissalrate.org/what-it-means.html -- What happens when a case is dismissed
+- https://dismissalrate.org/how-to-check.html -- Check your district's Chapter 13 success rate
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.
