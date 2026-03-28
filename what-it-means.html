@@ -40,8 +40,19 @@ main{max-width:820px;margin:0 auto;padding:2rem 1.5rem}
 </style>
 </head>
 <body>
-<nav><a href="/" class="site-name">dismissalrate.org</a>
-<div class="nav-links"><a href="https://1328f.com">1328f.com</a><a href="https://1328f.org">1328f.org</a></div></nav>
+<nav role="navigation" aria-label="Site navigation">
+  <a href="/" class="site-name">dismissalrate.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/what-it-means.html" class="active">What It Means</a>
+    <a href="/how-to-check.html">Check District</a>
+    <a href="/by-state.html">By State</a>
+    <a href="/why-chapter-13-fail.html">Why Plans Fail</a>
+    <a href="/attorney-impact.html">Attorney Impact</a>
+    <a href="/recovery-options.html">After Dismissal</a>
+  </div>
+</nav>
 <header><h1>Bankruptcy Dismissal Rates -- Attorney Performance Data</h1><p class="subtitle">Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.</p></header>
 <main id="main-content">
 
