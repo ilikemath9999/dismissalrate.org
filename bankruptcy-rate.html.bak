@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Bankruptcy Rate - National Filing and Dismissal Statistics [2026] - Dismissal Rate</title>
+<meta content="Learn about bankruptcy rate - national filing and dismissal statistics [2026] | dismissalrate.org in our free 2026 guide." name="description"/>
+<meta content="bankruptcy rate, bankruptcy filing rate, bankruptcy statistics, dismissal rate, bankruptcy trends, chapter 13 failure rate, bankruptcy by state, bankruptcy numbers" name="keywords"/>
+<link href="https://dismissalrate.org/bankruptcy-rate.html" rel="canonical"/>
+<link href="https://dismissalrate.org/bankruptcy-rate.html" hreflang="en" rel="alternate"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/><meta content="#0d1117" name="theme-color"/>
+<meta content="Bankruptcy Rate - National Filing and Dismissal Statistics [2026] - Dismissal Rate" property="og:title"/>
+<meta content="Learn about bankruptcy rate - national filing and dismissal statistics [2026] | dismissalrate.org in our free 2026 guide." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://dismissalrate.org/bankruptcy-rate.html" property="og:url"/>
+<meta content="dismissalrate.org" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Bankruptcy Rate - National Filing and Dismissal Statistics [2026] - Dismissal Rate" name="twitter:title"/>
+<meta content="Learn about bankruptcy rate - national filing and dismissal statistics [2026] | dismissalrate.org in our free 2026 guide." name="twitter:description"/>
+<meta content="https://dismissalrate.org/og-image.svg" property="og:image"/>
+<meta content="https://dismissalrate.org/og-image.svg" name="twitter:image"/>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+  {"@type":"Question","name":"What is the national bankruptcy filing rate?","acceptedAnswer":{"@type":"Answer","text":"In recent years, approximately 400,000 to 500,000 bankruptcy cases are filed annually in the United States, representing a per-capita filing rate of roughly 1.2-1.5 filings per 1,000 adults. This is down significantly from the peak of over 1.5 million filings in 2010. Filing rates vary dramatically by state and district."}},
+  {"@type":"Question","name":"What is the Chapter 13 dismissal rate?","acceptedAnswer":{"@type":"Answer","text":"Chapter 13 dismissal rates vary from approximately 30% to over 60% depending on the federal judicial district. The national average is in the range of 33-50%. Dismissal means the debtor did not complete the 3-to-5-year repayment plan and did not receive a discharge. Common causes include job loss, plan infeasibility, and failure to make payments."}},
+  {"@type":"Question","name":"Which states have the highest bankruptcy rates?","acceptedAnswer":{"@type":"Answer","text":"States in the South and Midwest historically have higher per-capita bankruptcy filing rates. Tennessee, Alabama, Georgia, and Nevada have consistently ranked among the highest. States in the Northeast and Mountain West tend to have lower rates. Geographic patterns reflect differences in exemption laws, local legal culture, economic conditions, and attorney practices."}},
+  {"@type":"Question","name":"How have bankruptcy rates changed over time?","acceptedAnswer":{"@type":"Answer","text":"Bankruptcy filings peaked at over 1.5 million in 2010 following the 2008 financial crisis. After BAPCPA took effect in October 2005, filings initially dropped sharply (following a massive pre-BAPCPA spike). Filings declined steadily through the 2010s and hit historic lows during 2020-2021 due to pandemic relief measures. Since 2022, filings have been rising as temporary protections expire."}}
+]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"Article","headline":"Bankruptcy Rate - National Filing and Dismissal Statistics","description":"National bankruptcy filing rates and dismissal rates by state and chapter. Trends, statistics, and district-level data.","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"},"datePublished":"2026-03-29","dateModified":"2026-03-29","mainEntityOfPage":"https://dismissalrate.org/bankruptcy-rate.html"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://dismissalrate.org"},{"@type":"ListItem","position":2,"name":"Dismissal Rates","item":"https://dismissalrate.org"},{"@type":"ListItem","position":3,"name":"Bankruptcy Rate","item":"https://dismissalrate.org/bankruptcy-rate.html"}]}]}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "name": "Bankruptcy Rate - National Statistics",
+      "url": "https://dismissalrate.org/bankruptcy-rate.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
+  .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; } header h1 .accent { color: var(--accent); }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .statute-box p { margin-bottom: 0.5rem; } .statute-box p:last-child { margin-bottom: 0; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; } .warning-box p:last-child { margin-bottom: 0; }
+  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .yellow-box p { margin-bottom: 0.5rem; } .yellow-box p:last-child { margin-bottom: 0; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; } .green-box p:last-child { margin-bottom: 0; }
+  .content-section table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+  .content-section th, .content-section td { padding: 0.6rem 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+  .content-section th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+  .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
+  .network-footer p { color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+  .network-footer .links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 0.75rem; }
+  .network-footer .links a { color: var(--text-muted); font-size: 0.85rem; } .network-footer .links a:hover { color: var(--accent); }
+  .network-footer .disclaimer { margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .content-section table { font-size: 0.8rem; } .content-section th, .content-section td { padding: 0.5rem; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+<link href="https://dismissalrate.org/bankruptcy-rate-es.html" hreflang="es" rel="alternate"/>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Site navigation" role="navigation">
+<a class="site-name" href="/">dismissalrate.org</a>
+<button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
+<div class="nav-links">
+<a href="/">Home</a>
+<a class="active" href="/bankruptcy-rate.html">Rates</a>
+<a href="/by-state.html">By State</a>
+<a href="/why-chapter-13-fail.html">Why Plans Fail</a>
+<a href="/attorney-impact.html">Attorney Impact</a>
+<a href="/recovery-options.html">After Dismissal</a>
+</div>
+</nav>
+<header>
+<h1>Bankruptcy Rate - <span class="accent">National Statistics</span></h1>
+<p class="subtitle">How many Americans file bankruptcy, how often cases are dismissed, and how these rates vary by state and district - with real data from the federal courts.</p>
+</header>
+<main id="main-content">
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://dismissalrate.org">Dismissal Rates</a><span class="separator">›</span><span>Bankruptcy Rate</span></nav>
+<div style="background:#21262d;border-left:3px solid #3fb950;padding:1.25rem;border-radius:0 6px 6px 0;margin-bottom:1.5rem">
+<p style="color:#3fb950;font-weight:700;font-size:0.85rem;margin-bottom:0.5rem;text-transform:uppercase;letter-spacing:0.5px">Quick Answer</p>
+<p style="color:#f0f6fc;font-size:1.05rem;line-height:1.6;margin-bottom:0">Approximately <strong>400,000 to 500,000</strong> bankruptcy cases are filed annually in the U.S. (recent years), down from over 1.5 million in 2010. The <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rate ranges from <strong>approximately 30% to over 60%</strong> depending on the district. <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> has a very high <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> rate. Rates vary dramatically by geography.</p>
+</div>
+<div class="content-section">
+<h2>National Filing Rate Trends</h2>
+<p>Bankruptcy filing rates in the United States have followed a dramatic trajectory over the past two decades:</p>
+<ul>
+<li><strong>2005 spike:</strong> Over 2 million cases were filed in 2005 as debtors rushed to file before <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> took effect on October 17, 2005.</li>
+<li><strong>2006 crash:</strong> Filings dropped to approximately 600,000 in 2006 as the <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> and new requirements took effect.</li>
+<li><strong>2008-2010 surge:</strong> The financial crisis drove filings back above 1.5 million by 2010.</li>
+<li><strong>2011-2019 decline:</strong> Filings declined steadily as the economy recovered, falling to approximately 750,000 by 2019.</li>
+<li><strong>2020-2021 historic lows:</strong> Pandemic relief measures - stimulus payments, enhanced unemployment benefits, eviction moratoriums, and <a href="https://bankruptcystudentloans.org/" title="student loans">student loan</a> forbearance - pushed filings to historic lows, below 500,000.</li>
+<li><strong>2022-present:</strong> Filings have been rising as pandemic-era protections have expired. Recent annual totals are in the 400,000-500,000 range.</li>
+</ul>
+<div class="statute-box">
+<p><strong>Data source:</strong> Annual filing statistics are published by the Administrative Office of the U.S. Courts in the Federal Judicial Caseload Statistics reports. Case-level data is available from the <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a> Integrated Database. The Open Bankruptcy Project analyzes 4.9 million cases from this database. See <a href="https://1328f.org/statistics/">1328f.org/statistics</a>.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Chapter 7 vs. Chapter 13 Filing Rates</h2>
+<p>The split between <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> varies significantly by region:</p>
+<ul>
+<li><strong>Nationally:</strong> Approximately 60-70% of consumer cases are Chapter 7 and 30-40% are Chapter 13.</li>
+<li><strong>Southern districts:</strong> Many Southern districts have much higher Chapter 13 rates - in some, Chapter 13 is the majority of consumer filings. Academic research attributes this to local legal culture, higher homeownership rates, and attorney fee structures.</li>
+<li><strong>Northern and Western districts:</strong> Chapter 7 tends to dominate, often accounting for 70-80% or more of consumer filings.</li>
+</ul>
+<div class="yellow-box">
+<p><strong>Why does the chapter split matter?</strong> Chapter 13 takes 3-5 years and has a high <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rate. Chapter 7 takes 3-6 months and has a very high <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> rate. The chapter a debtor files under significantly affects their outcome. In some districts, attorneys may steer clients toward Chapter 13 when Chapter 7 might be more appropriate - a pattern associated with "<a href="https://bankruptcymill.org" rel="noopener" target="_blank" title="Bankruptcy Mills - Open Bankruptcy Project">bankruptcy mill</a>" practices.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Dismissal Rates</h2>
+<p>The dismissal rate - the percentage of cases that end without a discharge - is one of the most important statistics in consumer bankruptcy:</p>
+<h3>Chapter 7 Dismissal and Denial Rates</h3>
+<p>Chapter 7 has a very low dismissal/denial rate. The vast majority of Chapter 7 filers receive a full discharge. Cases are denied discharge only under the limited grounds of <a href="https://727a8.com">11 U.S.C. § 727(a)</a>, such as fraud, concealment of property, destruction of records, or failure to complete debtor education.</p>
+<h3>Chapter 13 Dismissal Rates</h3>
+<p>Chapter 13 dismissal rates are dramatically higher and vary enormously by district. Based on FJC data, dismissal rates range from approximately 30% in some districts to over 60% in others. Common reasons for Chapter 13 dismissal include:</p>
+<ul>
+<li><strong>Inability to make plan payments:</strong> Job loss, income reduction, or unexpected expenses during the 3-5 year plan period.</li>
+<li><strong>Failure to file required documents:</strong> Missing tax returns, schedules, or other required filings.</li>
+<li><strong>Plan infeasibility:</strong> The plan was too aggressive from the start and left insufficient margin for unexpected changes.</li>
+<li><strong>Attorney quality:</strong> Research consistently shows that attorney choice is one of the strongest predictors of Chapter 13 outcomes. High-volume practices with high caseloads tend to have higher dismissal rates.</li>
+<li><strong>Local legal culture:</strong> Trustee practices, judge expectations, and <a href="https://chapter13plan.org/" title="confirmation">plan confirmation</a> standards vary significantly by district.</li>
+</ul>
+</div>
+<div class="content-section">
+<h2>Filing Rates by State</h2>
+<p>Per-capita bankruptcy filing rates vary significantly across states. Factors that influence state-level filing rates include:</p>
+<ul>
+<li><strong>Economic conditions:</strong> States with higher unemployment, lower median incomes, and higher consumer debt levels tend to have higher filing rates.</li>
+<li><strong>Exemption laws:</strong> States with more debtor-friendly <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> may see different filing patterns. Unlimited homestead exemption states sometimes have lower filing rates because debtors have less incentive to file.</li>
+<li><strong>Legal culture:</strong> Attorney advertising, fee structures, and local practice norms affect how many people file and under which chapter.</li>
+<li><strong>Collection practices:</strong> States with more aggressive creditor collection laws (<a href="https://garnishedwages.org" rel="noopener" target="_blank" title="Wage Garnishment and Bankruptcy - Open Bankruptcy Project">wage garnishment</a> without limits, bank levies) may drive more debtors to seek bankruptcy protection.</li>
+</ul>
+<p>See our <a href="/by-state.html">state-by-state analysis</a> for detailed breakdowns.</p>
+</div>
+<div class="content-section">
+<h2>What Dismissal Means for Debtors</h2>
+<p>When a bankruptcy case is dismissed, several things happen:</p>
+<ul>
+<li>The <a href="https://automaticstay.org">automatic stay</a> lifts immediately and creditors may resume all collection activities.</li>
+<li>In Chapter 13, plan payments made to the trustee are distributed to creditors (minus trustee fees) or returned to the debtor depending on the plan terms and local rules.</li>
+<li>The debtor may <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a>, but faces <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> limitations under 11 U.S.C. § 362(c)(3)-(4) if the dismissal was within the prior year.</li>
+<li>The debtor may be subject to a <a href="https://109g.org">180-day filing bar</a> under <a href="https://109g.org" rel="noopener" target="_blank" title="Section 109 Eligibility - Open Bankruptcy Project">Section 109</a>(g) in certain circumstances.</li>
+</ul>
+<div class="warning-box">
+<p><strong>If your case was dismissed:</strong> You have options. You may be able to <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a> immediately (subject to stay limits), negotiate directly with creditors, or explore non-bankruptcy alternatives. See our <a href="/recovery-options.html">recovery options guide</a> for next steps.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Frequently Asked Questions</h2>
+<h3>What is the national bankruptcy filing rate?</h3>
+<p>Approximately 400,000-500,000 cases per year in recent years, representing a per-capita rate of roughly 1.2-1.5 filings per 1,000 adults. This is down from the 2010 peak of over 1.5 million.</p>
+<h3>What is the Chapter 13 dismissal rate?</h3>
+<p>It ranges from approximately 30% to over 60% depending on the district. Common causes: job loss, inability to make payments, plan infeasibility, and attorney quality. See <a href="https://1328f.org/statistics/">1328f.org/statistics</a> for detailed data.</p>
+<h3>Which states have the highest bankruptcy rates?</h3>
+<p>Southern and Midwestern states historically have higher rates: Tennessee, Alabama, Georgia, and Nevada consistently rank among the highest. Northeast and Mountain West states tend to have lower rates.</p>
+<h3>How have bankruptcy rates changed over time?</h3>
+<p>Peak: 1.5M+ in 2010. BAPCPA (2005) caused an initial drop. Filings hit historic lows during 2020-2021 pandemic relief. Currently rising as temporary protections expire.</p>
+</div>
+<div style="max-width:820px;margin:2rem auto;padding:0 1.5rem">
+<h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Topics</h2>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.75rem">
+<a href="https://1328f.org/statistics/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">National Statistics</a>
+<a href="https://chapter7vs13.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Chapter 7 vs Chapter 13</a>
+<a href="https://howtofilebankruptcy.org" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">How to File Bankruptcy</a>
+<a href="https://1328f.com" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Discharge Screener</a>
+</div>
+</div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://bankruptcymill.com" style="color:#58a6ff;text-decoration:none">What is a Bankruptcy Mill?</a></li>
+<li><a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none">Open Bankruptcy Project</a></li>
+<li><a href="https://monitor.openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none">Attorney Monitoring Dashboard</a></li>
+</ul>
+</div>
+</main>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy denial and dismissal:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/707" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 707</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - Chapter 7 dismissal</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/1307" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 1307</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - Chapter 13 dismissal</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Bankruptcy Basics</a><br/><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.justice.gov/ust" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">U.S. Trustee Program</a><br/><span style="color:#7d8590;font-size:0.8rem">DOJ - motions to dismiss</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/what-is-bankruptcy-en-1935/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB: Bankruptcy Overview</a><br/><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22bankruptcy+dismissal%22+rate+%22chapter+13%22" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Dismissal Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.fjc.gov/research/idb" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">FJC Bankruptcy Statistics</a><br/><span style="color:#7d8590;font-size:0.8rem">Federal Judicial Center</span></li>
+</ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://dismissedbankruptcy.org?utm_source=dismissalrate.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">What Happens After Dismissal</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">What happens after your case is dismissed</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">dismissedbankruptcy.org →</p>
+</a>
+<a class="related-card" href="https://bankruptcydischarge.org?utm_source=dismissalrate.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Discharge Guide</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">How the bankruptcy discharge process works</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcydischarge.org →</p>
+</a>
+<a class="related-card" href="https://bankruptcydismissed.com?utm_source=dismissalrate.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Dismissed Bankruptcy Cases</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcydismissed.com →</p>
+</a>
+<a class="related-card" href="https://chapter7vs13.org?utm_source=dismissalrate.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 vs Chapter 13</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Side-by-side comparison to pick your chapter</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">chapter7vs13.org →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=dismissalrate.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://studentloanforgive.org/?utm_source=dismissalrate.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loan Forgiveness Programs</a> <span style="color:#7d8590;font-size:0.8rem">-- studentloanforgive.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=dismissalrate.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
+</ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+<p>A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit</p>
+<p>Real information, no strings.</p>
+<div class="links">
+<a href="https://1328f.com?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.com</a>
+<a href="https://1328f.org?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.org</a>
+<a href="https://automaticstay.org?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">automaticstay.org</a>
+<a href="https://meanstest.org?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">meanstest.org</a>
+<a href="https://341meeting.org?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">341meeting.org</a>
+<a href="https://523a.org?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">523a.org</a>
+<a href="https://109g.org?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">109g.org</a>
+<a href="https://727a8.com?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">727a8.com</a>
+<a href="https://dismissalrate.org">dismissalrate.org</a>
+<a href="https://howtofilebankruptcy.org?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">howtofilebankruptcy.org</a>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+<a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+</div>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=dismissalrate.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
