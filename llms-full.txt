@@ -335,7 +335,7 @@ Bankruptcy filing rates in the United States have followed a dramatic trajectory
 
 2022-present: Filings have been rising as pandemic-era protections have expired. Recent annual totals are in the 400,000-500,000 range.
 
-Data source: Annual filing statistics are published by the Administrative Office of the U.S. Courts in the Federal Judicial Caseload Statistics reports. Case-level data is available from the Federal Judicial Center Integrated Database. The Open Bankruptcy Project analyzes 4.9 million cases from this database. See 1328f.org/statistics.
+Data source: Annual filing statistics are published by the Administrative Office of the U.S. Courts in the Federal Judicial Caseload Statistics reports. Case-level data is available from the Federal Judicial Center Integrated Database. The Open Bankruptcy Project analyzes 8 million cases from this database. See 1328f.org/statistics.
 
 Chapter 7 vs. Chapter 13 Filing Rates
 
@@ -1267,7 +1267,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
@@ -1359,7 +1359,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
@@ -1451,7 +1451,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Dismissal Rates by District
 
@@ -1553,7 +1553,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
@@ -1645,7 +1645,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
@@ -1737,7 +1737,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
@@ -1829,7 +1829,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
@@ -1921,7 +1921,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
@@ -2013,7 +2013,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
@@ -2105,7 +2105,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
@@ -2197,7 +2197,7 @@ dismissalrate.org
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
@@ -2575,13 +2575,13 @@ After Dismissal
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
 Free Screener at 1328f.com
 
-The free screener at 1328f.com allows you to search for attorneys and see their case outcomes. The underlying data comes from the FJC Integrated Database covering 4.9 million federal bankruptcy cases across all 94 districts.
+The free screener at 1328f.com allows you to search for attorneys and see their case outcomes. The underlying data comes from the FJC Integrated Database covering 8 million federal bankruptcy cases across all 94 districts.
 
 PACER and CourtListener
 
@@ -3676,7 +3676,7 @@ After Dismissal
 
 Bankruptcy Dismissal Rates - Attorney Performance Data
 
-Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 4.9 million federal cases.
+Free data on bankruptcy dismissal rates by attorney, district, and chapter. Empirical analysis of 8 million federal cases.
 
 Home›Bankruptcy Dismissal Rates›Bankruptcy Dismissal Rates - Attorney Performance Data
 
